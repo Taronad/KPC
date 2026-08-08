@@ -1,0 +1,20 @@
+body {
+    color: blue;
+    background-color: blanchedalmond;
+}
+
+p.first {
+    font-size: 2em;
+}
+
+p.second {
+    padding: 2em;
+}
+
+span.first {
+    color: red;
+}
+
+span.second {
+    font-size: 2em;
+}
