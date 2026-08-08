@@ -9,6 +9,7 @@ p.first {
 
 p.second {
     padding: 2em;
+    border: 2px solid blue;
 }
 
 span.pertama {
